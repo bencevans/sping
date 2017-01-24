@@ -1,0 +1,32 @@
+{
+  "name": "sping",
+  "version": "0.0.0",
+  "description": "strip a url to the host and ping",
+  "main": "sping.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bencevans/sping.git"
+  },
+  "keywords": [
+    "ping",
+    "stip",
+    "http",
+    "url",
+    "protocol",
+    "https",
+    "port",
+    "cli"
+  ],
+  "author": "Ben Evans <ben@bensbit.co.uk> (https://bencevans.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bencevans/sping/issues"
+  },
+  "homepage": "https://github.com/bencevans/sping#readme",
+  "bin": {
+    "sping": "./sping.js"
+  }
+}
